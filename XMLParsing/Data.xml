@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site name="FidelityInvestments">
+<investmentAccount acctType="individual" uniqueId="23872632">
+<accountName>Long-term, Boat Account</accountName>
+<link>https://oltx.fidelity.com/ftgw/fbc/ofpositions/brokerageAccountPositions?ACCOUNT=X27830011&amp;Ref_at=summary_nm</link>
+<accountNumber>X27830011</accountNumber>
+<balance balType="totalBalance">
+<curAmt curCode="USD">55949.30</curAmt>
+</balance>
+<balance balType="cash">
+<curAmt curCode="USD">0.00</curAmt>
+</balance>
+<balance balType="totalMarketValueMarginSecurities">
+<curAmt curCode="USD">0.00</curAmt>
+</balance>
+<balance balType="fundsAvailable">
+<curAmt curCode="USD">55949.30</curAmt>
+</balance>
+<transactionList>
+<transaction transactionStatus="posted" type="dividendPayment" baseType="credit" uniqueId="1438382385">
+<description>FIDELITY OH MUNI MONEY MARKET - DIVIDEND RECEIVED</description>
+<symbol>FOMXX</symbol>
+<date localFormat="MM/dd/yyyy">2012-07-31T00:00:00</date>
+<amount curCode="USD">0.48</amount>
+</transaction>
+<transaction transactionStatus="posted" type="dividendReinvestment" baseType="debit" uniqueId="-179000561">
+<description>FIDELITY OH MUNI MONEY MARKET - REINVESTMENT</description>
+<symbol>FOMXX</symbol>
+<date localFormat="MM/dd/yyyy">2012-07-31T00:00:00</date>
+<quantity>0.480</quantity>
+<price curCode="USD">1.00</price>
+<amount curCode="USD">-0.48</amount>
+</transaction>
+</transactionList>
+<holdingList>
+<holding holdingType="moneyMarketFund" uniqueId="1874192502">
+<description>FIDELITY OH MUNI MONEY MARKET</description>
+<symbol>FOMXX</symbol>
+<price curCode="USD">1.000</price>
+<quantity>55949.30</quantity>
+<value curCode="USD">55949.30</value>
+</holding>
+</holdingList>
+</investmentAccount>
+<investmentAccount acctType="brokerageCash" uniqueId="755494428">
+<accountName>Day to Day Account</accountName>
+<link>https://oltx.fidelity.com/ftgw/fbc/ofpositions/brokerageAccountPositions?ACCOUNT=X73395854&amp;Ref_at=summary_nm</link>
+<accountNumber>X73395854</accountNumber>
+<balance balType="totalBalance">
+<curAmt curCode="USD">8925.64</curAmt>
+</balance>
+<balance balType="cash">
+<curAmt curCode="USD">0.00</curAmt>
+</balance>
+<balance balType="marginBalance">
+<curAmt curCode="USD">0.00</curAmt>
+</balance>
+<transactionList>
+<transaction transactionStatus="posted" type="deposit" baseType="credit" uniqueId="-150722314">
+<description>DIRECT DEPOSIT FIDELITY BROSALARY</description>
+<date localFormat="MM/dd/yyyy">2012-08-02T00:00:00</date>
+<amount curCode="USD">1378.39</amount>
+</transaction>
+<transaction transactionStatus="posted" baseType="debit" uniqueId="846596779">
+<description>DIRECT DEBIT THIRD FEDERAL LOAN PMT</description>
+<date localFormat="MM/dd/yyyy">2012-08-02T00:00:00</date>
+<amount curCode="USD">-1016.40</amount>
+</transaction>
+<transaction transactionStatus="pending" type="transferCashIn" baseType="credit" uniqueId="-2115763174">
+<description>Electronic Funds Transfer Received</description>
+<date localFormat="MM/dd/yyyy">2012-08-01T00:00:00</date>
+<amount curCode="USD">2500.00</amount>
+</transaction>
+<transaction transactionStatus="pending" type="billPay" baseType="debit" uniqueId="-1115541220">
+<description>BILL PAYMENT AMERICAN EXPRESS</description>
+<date localFormat="MM/dd/yyyy">2012-08-01T00:00:00</date>
+<amount curCode="USD">-1769.08</amount>
+</transaction>
+<transaction transactionStatus="pending" type="billPay" baseType="debit" uniqueId="-1144146228">
+<description>BILL PAYMENT FIA CARD SERVICE</description>
+<date localFormat="MM/dd/yyyy">2012-08-01T00:00:00</date>
+<amount curCode="USD">-2978.44</amount>
+</transaction>
+<transaction transactionStatus="posted" type="dividendPayment" baseType="credit" uniqueId="-797866315">
+<description>FIDELITY OH MUNI MONEY MARKET - DIVIDEND RECEIVED</description>
+<symbol>FOMXX</symbol>
+<date localFormat="MM/dd/yyyy">2012-07-31T00:00:00</date>
+<amount curCode="USD">0.08</amount>
+</transaction>
+<transaction transactionStatus="posted" type="dividendReinvestment" baseType="debit" uniqueId="-375196017">
+<description>FIDELITY OH MUNI MONEY MARKET - REINVESTMENT</description>
+<symbol>FOMXX</symbol>
+<date localFormat="MM/dd/yyyy">2012-07-31T00:00:00</date>
+<quantity>0.080</quantity>
+<price curCode="USD">1.00</price>
+<amount curCode="USD">-0.08</amount>
+</transaction>
+<transaction transactionStatus="posted" type="deposit" baseType="credit" uniqueId="-669025702">
+<description>DIRECT DEPOSIT CATHOLIC HEAPR PAYMENT</description>
+<date localFormat="MM/dd/yyyy">2012-07-26T00:00:00</date>
+<amount curCode="USD">2318.04</amount>
+</transaction>
+<transaction transactionStatus="posted" type="billPay" baseType="debit" uniqueId="1077819775">
+<description>BILL PAYMENT DUKE ENERGY OH</description>
+<date localFormat="MM/dd/yyyy">2012-07-26T00:00:00</date>
+<amount curCode="USD">-258.47</amount>
+</transaction>
+<transaction transactionStatus="posted" type="billPay" baseType="debit" uniqueId="-1020521560">
+<description>BILL PAYMENT MACY&amp;#039;S</description>
+<date localFormat="MM/dd/yyyy">2012-07-24T00:00:00</date>
+<amount curCode="USD">-4.41</amount>
+</transaction>
+<transaction transactionStatus="posted" type="billPay" baseType="debit" uniqueId="640566930">
+<description>BILL PAYMENT TIME WARNER CABLE SW OH</description>
+<date localFormat="MM/dd/yyyy">2012-07-24T00:00:00</date>
+<amount curCode="USD">-114.48</amount>
+</transaction>
+<transaction transactionStatus="posted" type="billPay" baseType="debit" uniqueId="-1962633871">
+<description>BILL PAYMENT AMERICAN EXPRESS</description>
+<date localFormat="MM/dd/yyyy">2012-07-24T00:00:00</date>
+<amount curCode="USD">-1376.59</amount>
+</transaction>
+<transaction transactionStatus="posted" type="deposit" baseType="credit" uniqueId="-192668263">
+<description>DIRECT DEPOSIT FIDELITY BROSALARY</description>
+<date localFormat="MM/dd/yyyy">2012-07-19T00:00:00</date>
+<amount curCode="USD">1201.72</amount>
+</transaction>
+<transaction transactionStatus="posted" baseType="debit" uniqueId="-1670618080">
+<description>Check Paid # 1346</description>
+<date localFormat="MM/dd/yyyy">2012-07-19T00:00:00</date>
+<amount curCode="USD">-500.00</amount>
+</transaction>
+<transaction transactionStatus="posted" baseType="debit" uniqueId="-113483657">
+<description>Check Paid # 1348</description>
+<date localFormat="MM/dd/yyyy">2012-07-18T00:00:00</date>
+<amount curCode="USD">-317.35</amount>
+</transaction>
+<transaction transactionStatus="posted" baseType="debit" uniqueId="-421289649">
+<description>DIRECT DEBIT NORTHWESTERN MISA PAYMNT</description>
+<date localFormat="MM/dd/yyyy">2012-07-17T00:00:00</date>
+<amount curCode="USD">-145.40</amount>
+</transaction>
+<transaction transactionStatus="posted" baseType="debit" uniqueId="-860267343">
+<description>Check Paid # 1342</description>
+<date localFormat="MM/dd/yyyy">2012-07-16T00:00:00</date>
+<amount curCode="USD">-10.00</amount>
+</transaction>
+<transaction transactionStatus="posted" type="deposit" baseType="credit" uniqueId="976840572">
+<description>DIRECT DEPOSIT CATHOLIC HEAPR PAYMENT</description>
+<date localFormat="MM/dd/yyyy">2012-07-12T00:00:00</date>
+<amount curCode="USD">2372.71</amount>
+</transaction>
+<transaction transactionStatus="posted" baseType="debit" uniqueId="-1807105979">
+<description>Check Paid # 1347</description>
+<date localFormat="MM/dd/yyyy">2012-07-12T00:00:00</date>
+<amount curCode="USD">-70.00</amount>
+</transaction>
+<transaction transactionStatus="posted" type="billPay" baseType="debit" uniqueId="-262073591">
+<description>BILL PAYMENT NMAC TRANSACTION PROCES</description>
+<date localFormat="MM/dd/yyyy">2012-07-12T00:00:00</date>
+<amount curCode="USD">-505.50</amount>
+</transaction>
+<transaction transactionStatus="posted" type="billPay" baseType="debit" uniqueId="-2108290171">
+<description>BILL PAYMENT AMERICAN EXPRESS</description>
+<date localFormat="MM/dd/yyyy">2012-07-09T00:00:00</date>
+<amount curCode="USD">-1841.00</amount>
+</transaction>
+<transaction transactionStatus="posted" type="deposit" baseType="credit" uniqueId="-200159086">
+<description>DIRECT DEPOSIT FIDELITY BROSALARY</description>
+<date localFormat="MM/dd/yyyy">2012-07-05T00:00:00</date>
+<amount curCode="USD">1132.69</amount>
+</transaction>
+<transaction transactionStatus="posted" type="deposit" baseType="credit" uniqueId="956012311">
+<description>DIRECT DEPOSIT FIA CARDSVC DCB PAYMNT</description>
+<date localFormat="MM/dd/yyyy">2012-07-03T00:00:00</date>
+<amount curCode="USD">83.37</amount>
+</transaction>
+<transaction transactionStatus="posted" baseType="debit" uniqueId="2010498663">
+<description>DIRECT DEBIT THIRD FEDERAL LOAN PMT</description>
+<date localFormat="MM/dd/yyyy">2012-07-03T00:00:00</date>
+<amount curCode="USD">-1016.40</amount>
+</transaction>
+</transactionList>
+<holdingList>
+<holding holdingType="moneyMarketFund" uniqueId="1874192502">
+<description>FIDELITY OH MUNI MONEY MARKET</description>
+<symbol>FOMXX</symbol>
+<price curCode="USD">1.000</price>
+<quantity>8563.65</quantity>
+<value curCode="USD">8563.65</value>
+</holding>
+</holdingList>
+</investmentAccount>
+<investmentAccount acctType="roth" uniqueId="-1811096525">
+<accountName>ROTH IRA</accountName>
+<link>https://oltx.fidelity.com/ftgw/fbc/ofpositions/brokerageAccountPositions?ACCOUNT=131780740&amp;Ref_at=summary_nm</link>
+<accountNumber>131780740</accountNumber>
+<balance balType="totalBalance">
+<curAmt curCode="USD">20419.05</curAmt>
+</balance>
+<balance balType="cash">
+<curAmt curCode="USD">0.00</curAmt>
+</balance>
+<balance balType="totalMarketValueMarginSecurities">
+<curAmt curCode="USD">20410.62</curAmt>
+</balance>
+<balance balType="fundsAvailable">
+<curAmt curCode="USD">8.43</curAmt>
+</balance>
+<holdingList>
+<holding holdingType="moneyMarketFund" uniqueId="-533661754">
+<description>FIDELITY CASH RESERVES</description>
+<symbol>FDRXX</symbol>
+<price curCode="USD">1.000</price>
+<quantity>8.43</quantity>
+<value curCode="USD">8.43</value>
+</holding>
+<holding holdingType="mutualFund" uniqueId="-1763670887">
+<description>FIDELITY FREEDOM 2040</description>
+<symbol>FFFFX</symbol>
+<costBasis curCode="USD">17176.88</costBasis>
+<price curCode="USD">7.950</price>
+<quantity>2567.374</quantity>
+<value curCode="USD">20410.62</value>
+<dailyChange curCode="USD">-0.03</dailyChange>
+</holding>
+</holdingList>
+</investmentAccount>
+</site>
